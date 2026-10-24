@@ -1,4 +1,5 @@
-const NoteDetails = () => {
-    return <div>NoteDetails</div>
+export default function NoteDetails() {
+    return (
+        <div>NoteDetails</div>
+    )
 }
-export default NoteDetails
